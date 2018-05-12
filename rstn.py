@@ -7,7 +7,7 @@ from   tkFileDialog      import askopenfilename
 # NAME:
 #         read_rstn
 # PURPOSE:
-#         Read 1-second RSTN data
+#         Read 1-second RSTN data (Do not need unzip the file)
 # CALLING SECUENCE:
 #         df, sta, date_string = read_rstn()
 #         Stations: sagamorehill, palehua, sanvito, learmonth
